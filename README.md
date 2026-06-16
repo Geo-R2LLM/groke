@@ -10,7 +10,7 @@
   [![ACL 2026](https://img.shields.io/badge/ACL-2026%20Main-blue)](https://2026.aclweb.org/)
   [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-  [📄 Paper](https://arxiv.org/abs/2601.07375) • [💻 Code](https://anonymous.4open.science/r/groke) • [🗂️ Map2Seq Dataset](https://map2seq.schumann.pub/dataset/) • [🌐 Project Page](https://fuzsh.github.io/groke/)
+  [📄 Paper](https://arxiv.org/abs/2601.07375) • [💻 Code](https://github.com/fuzsh/groke) • [🗂️ Map2Seq Dataset](https://map2seq.schumann.pub/dataset/) • [🌐 Project Page](https://fuzsh.github.io/groke/)
 </div>
 
 ---
